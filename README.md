@@ -63,6 +63,3 @@ Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Se voc
 - Sempre busco um equilíbrio entre vida profissional e pessoal, valorizando saúde e bem-estar.
 - Sou um entusiasta em fotografia, sempre procurando capturar momentos únicos e explorar novas perspectivas.
 - Tenho interesse em filosofia, buscando compreender diferentes visões sobre a vida e a existência.
-
-
-- 
