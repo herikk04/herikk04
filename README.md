@@ -18,10 +18,7 @@
 
 ## Sobre Mim
 
-Sou estudante de **Inteligência Artificial** na **UFG** e **Técnico em Informática para Internet** pelo **IFG**. Apaixonado por **machine learning**, **data science** e soluções inovadoras, estou sempre buscando aprimorar minhas habilidades e contribuir para projetos que impactem positivamente a sociedade.
-
-Atualmente, estou focado em **projetos de IA** e explorando novas tecnologias para resolver problemas do mundo real.
-
+Sou estudante de **Inteligência Artificial** na **UFG** e **Técnico em Informática para Internet** pelo **IFG**. 
 ---
 
 ## 🚀 Habilidades
