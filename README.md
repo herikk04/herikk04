@@ -19,6 +19,7 @@
 ## Sobre Mim
 
 Sou estudante de **Inteligência Artificial** na **UFG** e **Técnico em Informática para Internet** pelo **IFG**. 
+
 ---
 
 ## 🚀 Habilidades
@@ -26,14 +27,6 @@ Sou estudante de **Inteligência Artificial** na **UFG** e **Técnico em Inform�
 - **Linguagens:** Python, Java, PHP, JavaScript, HTML/CSS
 - **Ferramentas:** Git, Docker, DBeaver
 - **Bancos de Dados:** PostgreSQL, MySQL
-
----
-
-## 🛠 Projetos Recentes
-
-- **[Projeto POO](https://github.com/herikk04/ProjetoPOO):** Aplicação web para gerenciamento de instalações esportivas (Flask, Pandas, OOP).
-- **[Vendas Ponto Com](https://github.com/herikk04/VendasPontoCom):** Site de compras em PHP para gerenciar vendas, produtos e usuários.
-- **[JukeTube](https://github.com/herikk04/JukeTube):** Bot de Discord para trazer músicas do YouTube para servidores.
 
 ---
 
