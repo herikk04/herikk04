@@ -63,6 +63,8 @@ Atualmente no **LAMIA / B2ML**, onde arquitetamos sistemas de observabilidade e 
 ### 📌 Projetos pessoais
 
 - **[MemorAI](https://github.com/herikk04/MemorAI)** — Plataforma de ensino de programação com repetição espaçada (Curva de Ebbinghaus) e gamificação, integrada ao Anki.
+- **[Intent Classifier API](https://github.com/herikk04/classificador-mensagens-api)** — API REST de classificação de intenção com Few-Shot Prompting (Gemini 2.5 Flash), Clean Architecture e princípios SOLID.
+- - **[Solar-ai](https://github.com/herikk04/Solar-ai)** — Pipeline de MLOps na GCP (Dataflow, Vertex AI/YOLOv8, BigQuery) para detecção de falhas em painéis solares via imagens térmicas. Trabalho final da disciplina de Processamendo de Dados Massivos, com pipeline funcional ponta a ponta.
 <!-- - *(espaço para um projeto pessoal de RAG/agentes — ex: pipeline de busca vetorial com Qdrant + LangGraph, sem dados de cliente)* -->
 
 ---
