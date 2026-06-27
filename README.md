@@ -1,42 +1,81 @@
-# Herik Kauan
+<h1 align="center">Herik Kauan</h1>
+<h3 align="center">Pesquisador em IA & Engenheiro de Software | LLMs, Agentes e Arquitetura Backend</h3>
 
-**Pesquisador em Inteligência Artificial | Desenvolvedor de Software | R&D**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herik-kauan-assis/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:herikkauan04@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/HerikKkk)
-
----
-
-## Sobre Mim
-
-Sou estudante de Inteligência Artificial na Universidade Federal de Goiás (UFG) e Técnico em Informática para Internet pelo Instituto Federal de Goiás (IFG). 
-
-Atuo profissionalmente em Pesquisa e Desenvolvimento (P&D), com foco na criação de soluções escaláveis, arquitetura backend e workflows de IA. Tenho vivência em liderança técnica e desenvolvimento de projetos complexos, unindo a pesquisa acadêmica à aplicação tecnológica real no mercado.
-
----
-
-## Competências Técnicas
-
-* **Linguagens & Frameworks:** Python, FastAPI, C# (.NET), Java, PHP, JavaScript.
-* **Inteligência Artificial & LLMOps:** LangChain, LangGraph, LangFuse, Model Context Protocol (MCP), desenvolvimento de Agentes Autônomos.
-* **Engenharia de Dados & Bancos:** PostgreSQL, MySQL, Bancos Vetoriais e de Grafos.
-* **Infraestrutura & Ferramentas:** Git, Docker, DBeaver, Arquitetura Backend.
+<p align="center">
+  <a href="https://www.linkedin.com/in/herik-kauan-assis/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:herikkauan04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://huggingface.co/HerikKkk">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000"/>
+  </a>
+</p>
 
 ---
 
-## Experiência e Projetos em Destaque
+### 🧠 Sobre
 
-* **Pesquisa & Desenvolvimento (P&D):** Atuação como pesquisador e desenvolvedor no CEIA-UFG (Unidade Embrapii) e AKACIT.
-* **Liderança Técnica:** Atuação no desenvolvimento do projeto SIMCAQ (Simulador de Custo-Aluno Qualidade) para a Secretaria de Educação.
-* **MemorAI:** Desenvolvimento de plataforma impulsionada por IA com foco em personalização do ensino.
-* **Automação:** Criação de web scrapers avançados e sistemas de métricas para agentes de IA (Agent Metrics).
+Estudante de Inteligência Artificial na **UFG** e Técnico em Informática para Internet pelo **IFG**, atuando em Pesquisa & Desenvolvimento com foco em **LLMs, agentes autônomos e arquitetura backend escalável**.
+
+Atualmente no **LAMIA / B2ML**, onde arquitetamos sistemas de observabilidade e billing do ecossistema **ArkaAI**, orquestrando agentes com **LangGraph + FastAPI** e pipelines de RAG com **Qdrant**. Antes disso, liderei tecnicamente o **SIMCAQ** (simulador de custo-aluno para a Secretaria de Educação), reduzindo o tempo de obtenção de insights de custo, e atuei como pesquisador em IA e gamificação no **CEIA/UFG**, em projeto EMBRAPII com a Pacto Soluções.
+
+> A maior parte do meu trabalho profissional é proprietário de clientes/empresas e não pode ser publicado aqui. Os repositórios abaixo são projetos pessoais que usei para estudar e aplicar as mesmas tecnologias em menor escala.
 
 ---
 
-## Áreas de Interesse e Estudo Contínuo
+### 🛠️ Stack técnico
 
-* Modelos avançados de Machine Learning e otimização de IA generativa.
-* Integração e arquitetura de sistemas com LLMs.
-* Hardware, modelagem 3D e edição digital voltada para fotografia.
-* Filosofia, empreendedorismo e a intersecção entre tecnologia e impacto social.
+**Linguagens & Frameworks**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**IA, Agentes & Dados**
+
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square)
+![Qdrant](https://img.shields.io/badge/-Qdrant-DC244C?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Infraestrutura**
+
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+
+### 💼 Experiência em destaque
+
+- **LAMIA / B2ML** — Full Stack AI Engineer & Researcher. Ecossistema ArkaAI: orquestração de agentes, observabilidade, billing por token, RAG com Qdrant.
+- **CEIA / Pacto Soluções** — Pesquisador em IA e Gamificação (projeto EMBRAPII, UFG ↔ Pacto Soluções).
+- **Secretaria de Educação (SIMCAQ)** — Liderança técnica no desenvolvimento da plataforma de simulação de custo-aluno-qualidade.
+
+---
+
+### 📌 Projetos pessoais
+
+- **[MemorAI](https://github.com/herikk04/MemorAI)** — Plataforma de ensino de programação com repetição espaçada (Curva de Ebbinghaus) e gamificação, integrada ao Anki.
+<!-- - *(espaço para um projeto pessoal de RAG/agentes — ex: pipeline de busca vetorial com Qdrant + LangGraph, sem dados de cliente)* -->
+
+---
+
+### 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=herikk04&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herikk04&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+---
+
+### 🎯 Estudo contínuo
+
+Otimização de IA generativa, arquitetura de sistemas com LLMs, e a intersecção entre tecnologia e impacto social.
